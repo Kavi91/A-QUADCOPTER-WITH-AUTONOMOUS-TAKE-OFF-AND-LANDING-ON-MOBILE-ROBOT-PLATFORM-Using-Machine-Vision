@@ -1,6 +1,6 @@
 # A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision
 
-We propose an approach for automated and coordinated landing of an unmanned aerial vehicle on a mobile platform using Machine Vision.
+We propose an approach for automated and coordinated landing of an unmanned aerial vehicle on a mobile platform using Machine Vision. This Repo Only contains the Machine Vision algorithm since this is a part of the group Project. 
 
 ## Autonomous UAV Landing on a Mobile Platform
 

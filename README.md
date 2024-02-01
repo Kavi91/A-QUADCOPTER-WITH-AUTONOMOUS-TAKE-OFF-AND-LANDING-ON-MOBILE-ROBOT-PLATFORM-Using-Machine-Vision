@@ -1,10 +1,10 @@
 # A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision
-we propose an approach for automated and coordinated landing of an unmanned aerial vehicle on a mobile platform using Machine Vision
 
-# Autonomous UAV Landing on a Mobile Platform
-<img width="1147" alt="Screenshot 2024-02-01 at 10 01 01" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/edb1f2a6-bcdd-4e26-96b2-b9d2d3d23f76">
+We propose an approach for automated and coordinated landing of an unmanned aerial vehicle on a mobile platform using Machine Vision.
 
+## Autonomous UAV Landing on a Mobile Platform
 
+![UAV Landing](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/edb1f2a6-bcdd-4e26-96b2-b9d2d3d23f76)
 
 ## Overview
 
@@ -16,9 +16,7 @@ This project introduces an innovative approach for the automated and coordinated
 
 The aim is to enhance UAV autonomy, particularly in VToL operations, through a dual-controller system and a computer vision-based algorithm for precise landing on a mobile platform, ensuring obstacle avoidance and accurate positioning.
 
-<img width="1147" alt="Screenshot 2024-02-01 at 10 01 17" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/92c9d304-ddf2-4afe-a958-ab47ff9ab2d5">
-
-
+![UAV Project Aim](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/92c9d304-ddf2-4afe-a958-ab47ff9ab2d5)
 
 ## Methodology
 
@@ -43,15 +41,16 @@ A significant advancement is our computer vision algorithm, which enables the UA
 This project is the culmination of efforts from a team with deep expertise and enthusiasm for unmanned robotics. From software simulation to real-world implementation, every member has significantly contributed to achieving the project's objectives.
 
 ## Results
-<img width="1378" alt="Screenshot 2024-02-01 at 09 57 24" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/9d6f7c53-f03a-4c25-9004-6b2005ed0068">
 
-<img width="1153" alt="Screenshot 2024-02-01 at 09 57 43" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/cc5c5359-eac9-4b92-b6e1-d7925fd2df6f">
-<img width="995" alt="Screenshot 2024-02-01 at 09 58 19" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/fc3b5a53-0634-4445-99a3-f0eed0501cd0">
+![Results 1](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/9d6f7c53-f03a-4c25-9004-6b2005ed0068)
 
-<img width="1014" alt="Screenshot 2024-02-01 at 09 58 34" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/32c6fab0-c7b1-40fe-b99b-f335c7d135a5">
+![Results 2](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/cc5c5359-eac9-4b92-b6e1-d7925fd2df6f)
 
-<img width="991" alt="Screenshot 2024-02-01 at 09 58 49" src="https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/d859405b-6d9b-488e-ab1f-efae15c6c601">
+![Results 3](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/fc3b5a53-0634-4445-99a3-f0eed0501cd0)
 
+![Results 4](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/32c6fab0-c7b1-40fe-b99b-f335c7d135a5)
+
+![Results 5](https://github.com/Kavi91/A-QUADCOPTER-WITH-AUTONOMOUS-TAKE-OFF-AND-LANDING-ON-MOBILE-ROBOT-PLATFORM-Using-Machine-Vision/assets/153508129/d859405b-6d9b-488e-ab1f-efae15c6c601)
 
 ## Future Work
 

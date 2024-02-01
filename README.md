@@ -2,7 +2,7 @@
 
 We propose an approach for automated and coordinated landing of an unmanned aerial vehicle on a mobile platform using Machine Vision. This Repo Only contains the Machine Vision algorithm since this is a part of the group Project 2015.
 
-(Real-time test with Quadcopter)[https://www.youtube.com/watch?v=KOuZydgOXoM]
+[Real-time test with Quadcopter](https://www.youtube.com/watch?v=KOuZydgOXoM)
 
 ## Autonomous UAV Landing on a Mobile Platform
 
